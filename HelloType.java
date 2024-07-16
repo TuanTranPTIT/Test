@@ -3,5 +3,7 @@ public class HelloType {
     public static void main(){
         sysout print hello
     }
+//gdggaghghashahchg
+    //Đến giờ đi ngủ rồi
 }
-them mot cai gi do
+//Toi muon them hhdhadjb
