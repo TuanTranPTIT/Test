@@ -1,4 +1,4 @@
 public class HelloType {
-//gdggaghghashahchgrrrr
+//gdggaghghashahchg
 }
-them mot cai gi do
+//Toi muon them hhdhadjb
