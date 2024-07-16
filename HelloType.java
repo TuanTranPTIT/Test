@@ -4,6 +4,6 @@ public class HelloType {
         sysout print hello
     }
 //gdggaghghashahchg
-    //Đến giờ đi ngủ rồi
+    //Đến giờ đi ngủ rồi nhes
 }
 //Toi muon them hhdhadjb
